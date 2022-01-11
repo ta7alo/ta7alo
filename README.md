@@ -1,5 +1,5 @@
 ### Olá! sou o Thales Miguel 👋
-- 🌱 Estou aprendendo e me aperfeiçoando em back-end
+- 🌱 Estou aprendendo e me aperfeiçoando em backend
 <div align="center">
   <a href="https://github.com/ta7alo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ta7alo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,10 +10,13 @@
 <div style="display: inline_block"><br>
 
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="java"  src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    
   ##
  
 <div> 
