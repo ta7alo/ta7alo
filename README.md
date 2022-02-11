@@ -1,5 +1,5 @@
 ### Olá! sou o Thales Miguel 👋
-- 🌱 Estou aprendendo e me aperfeiçoando em backend
+
 <div align="center">
   <a href="https://github.com/ta7alo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ta7alo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
